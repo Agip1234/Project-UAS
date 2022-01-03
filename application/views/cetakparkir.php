@@ -1,0 +1,1 @@
+<?php echo anchor('auth/login', 'home', 'class="waves-effect waves-light btn-large green accent-4" data-aos="fade-right"'); ?>
